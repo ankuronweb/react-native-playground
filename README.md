@@ -1,4 +1,4 @@
-catdev_mobile
+React Native test app
 ==============
 
 Installing Dependencies
